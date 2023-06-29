@@ -1,6 +1,6 @@
 html, css, js:
 css:
-widh,height,margin,padding?
+width,height,margin,padding?
 
 html:, 
 <a>,<p>,<img>,<div>,<table><tr><td>,<script> etc..
